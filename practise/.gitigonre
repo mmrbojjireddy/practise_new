@@ -1,9 +1,9 @@
-.bash_history
-.bashrc
-.gitconfig
-.profile
-.ssh/
-.viminfo
+bash_history
+bashrc
+gitconfig
+profile
+ssh/
+viminfo
 snap/
 
 
