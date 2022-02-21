@@ -1,1 +1,2 @@
 hello one page
+hello new page
